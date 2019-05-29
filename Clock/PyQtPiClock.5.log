@@ -1,0 +1,12 @@
+map base url: http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyD5BHaZqMytirke4Z4Y6kVmik27kZq1yaI&center=41.067778,-85.021389&zoom=8&size=400x330&maptype=hybrid
+map base url: http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyD5BHaZqMytirke4Z4Y6kVmik27kZq1yaI&center=41.067778,-85.021389&zoom=5&size=400x330&maptype=hybrid
+map base url: http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyD5BHaZqMytirke4Z4Y6kVmik27kZq1yaI&center=41.067778,-85.021389&zoom=6&size=466x420&maptype=hybrid
+map base url: http://maps.googleapis.com/maps/api/staticmap?key=AIzaSyD5BHaZqMytirke4Z4Y6kVmik27kZq1yaI&center=41.067778,-85.021389&zoom=10&size=466x420&maptype=hybrid
+getting current and forecast:Tue May 28 10:30:02 2019
+https://api.darksky.net/forecast/e58b7b832b0edb1a0ab59e6af8473b7f/41.067778,-85.021389?units=us&lang=en&r=0.426676324333
+wxstart for radar1
+wxstart for radar2
+Traceback (most recent call last):
+  File "PyQtPiClock.py", line 289, in wxfinished
+    int(f['time']))))
+ValueError: Single '}' encountered in format string
