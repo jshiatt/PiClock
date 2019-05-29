@@ -1,3 +1,7 @@
+I did not do all of this myself. This is a copy of n0bel's PiClock tweaked to fit better on monitors around the shop floor at my place of work. 
+
+
+
 # PiClock
 A Fancy Clock built around a monitor and a Raspberry Pi
 
